@@ -1,0 +1,7 @@
+happytransformer==2.4.1
+matplotlib==3.6.3
+nltk==3.8.1
+pandas==1.5.2
+requests==2.27.1
+seaborn==0.12.2
+wordcloud==1.8.2.2
